@@ -29,7 +29,7 @@ dependencies:
     git:
       url: https://github.com/botslabapp/plugins
       path: packages/in_app_purchase/in_app_purchase_ios
-      ref: 1232d9a790bb15ce90fa144d84e9a8a2c4018a5a
+      ref: 234f6279bbd45b5a6839ffa65f790b1954a11dfc
 
 dev_dependencies:
   flutter_driver:
